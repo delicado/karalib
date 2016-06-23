@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="karalib" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="libkaralib" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj\Debug\" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="src\buffer.h" />
+		<Unit filename="src\chunk.cpp" />
+		<Unit filename="src\chunk.h" />
+		<Unit filename="src\defprocedures.cpp" />
+		<Unit filename="src\defprocedures.h" />
+		<Unit filename="src\error.cpp" />
+		<Unit filename="src\error.h" />
+		<Unit filename="src\event.cpp" />
+		<Unit filename="src\event.h" />
+		<Unit filename="src\fileformat.cpp" />
+		<Unit filename="src\fileformat.h" />
+		<Unit filename="src\flags.h" />
+		<Unit filename="src\karaoke.cpp" />
+		<Unit filename="src\karaoke.h" />
+		<Unit filename="src\ksong.cpp" />
+		<Unit filename="src\ksong.h" />
+		<Unit filename="src\ktypes.h" />
+		<Unit filename="src\main.cpp" />
+		<Unit filename="src\main.h" />
+		<Unit filename="src\midi.cpp" />
+		<Unit filename="src\midi.h" />
+		<Unit filename="src\midiout.cpp" />
+		<Unit filename="src\midiout.h" />
+		<Unit filename="src\out.h" />
+		<Unit filename="src\scheduler.cpp" />
+		<Unit filename="src\scheduler.h" />
+		<Unit filename="src\song.cpp" />
+		<Unit filename="src\song.h" />
+		<Unit filename="src\tracks.cpp" />
+		<Unit filename="src\tracks.h" />
+		<Unit filename="src\utils.cpp" />
+		<Unit filename="src\utils.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

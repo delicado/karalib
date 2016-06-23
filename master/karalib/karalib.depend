@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1340463188 source:d:\codeblocktest\karalib\src\chunk.cpp
+	"chunk.h"
+
+1340153228 d:\codeblocktest\karalib\src\chunk.h
+	"utils.h"
+	<memory.h>
+	<stdint.h>
+	"error.h"
+
+1340153878 d:\codeblocktest\karalib\src\utils.h
+	<fstream>
+	<stdint.h>
+	<vector>
+
+1339924508 d:\codeblocktest\karalib\src\error.h
+	<stdexcept>
+	<cstring>
+	<stdint.h>
+
+1340463188 source:d:\codeblocktest\karalib\src\defprocedures.cpp
+	"defprocedures.h"
+	"midiout.h"
+
+1339939874 d:\codeblocktest\karalib\src\defprocedures.h
+	<iostream>
+	<stdint.h>
+
+1339739034 d:\codeblocktest\karalib\src\midiout.h
+	"out.h"
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+
+1339738696 d:\codeblocktest\karalib\src\out.h
+	<stdint.h>
+
+1339742054 source:d:\codeblocktest\karalib\src\error.cpp
+	"error.h"
+
+1340458022 source:d:\codeblocktest\karalib\src\event.cpp
+	"event.h"
+
+1340151270 d:\codeblocktest\karalib\src\event.h
+	"utils.h"
+	"error.h"
+
+1340463186 source:d:\codeblocktest\karalib\src\fileformat.cpp
+	"fileformat.h"
+	"utils.h"
+	<iostream>
+
+1339964824 d:\codeblocktest\karalib\src\fileformat.h
+	<stdint.h>
+	<fstream>
+
+1340463186 source:d:\codeblocktest\karalib\src\karaoke.cpp
+	"karaoke.h"
+	<memory.h>
+	<conio.h>
+
+1340463186 d:\codeblocktest\karalib\src\karaoke.h
+	<vector>
+	<stdint.h>
+	<string>
+	"midi.h"
+	"flags.h"
+
+1340463184 d:\codeblocktest\karalib\src\midi.h
+	<vector>
+	<stdint.h>
+	"scheduler.h"
+	"ksong.h"
+	"midiout.h"
+	"flags.h"
+
+1339882516 d:\codeblocktest\karalib\src\scheduler.h
+	<windows.h>
+	<stdint.h>
+
+1340215640 d:\codeblocktest\karalib\src\ksong.h
+	"song.h"
+
+1340153642 d:\codeblocktest\karalib\src\song.h
+	<vector>
+	<stdint.h>
+	<fstream>
+	"chunk.h"
+	"tracks.h"
+
+1340154330 d:\codeblocktest\karalib\src\tracks.h
+	"chunk.h"
+	"event.h"
+	<stdint.h>
+	"ktypes.h"
+
+1340213054 d:\codeblocktest\karalib\src\ktypes.h
+	<vector>
+
+1340217146 d:\codeblocktest\karalib\src\flags.h
+
+1340215700 source:d:\codeblocktest\karalib\src\ksong.cpp
+	"ksong.h"
+
+1340462226 source:d:\codeblocktest\karalib\src\main.cpp
+
+1340463184 source:d:\codeblocktest\karalib\src\midi.cpp
+	"midi.h"
+	"utils.h"
+	"defprocedures.h"
+	"error.h"
+	<fstream>
+	"flags.h"
+
+1339739042 source:d:\codeblocktest\karalib\src\midiout.cpp
+	"error.h"
+	"midiout.h"
+
+1339882974 source:d:\codeblocktest\karalib\src\scheduler.cpp
+	"scheduler.h"
+
+1340212768 source:d:\codeblocktest\karalib\src\song.cpp
+	"song.h"
+	"error.h"
+	"utils.h"
+	<cstring>
+
+1340190822 source:d:\codeblocktest\karalib\src\tracks.cpp
+	"tracks.h"
+	"flags.h"
+	"utils.h"
+	<memory.h>
+
+1340153878 source:d:\codeblocktest\karalib\src\utils.cpp
+	"utils.h"
+	"chunk.h"
+	"tracks.h"
+	"error.h"
+

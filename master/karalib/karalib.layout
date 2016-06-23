@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src\event.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="10" />
+	</File>
+	<File name="src\karaoke.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\karaoke.h" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="2" />
+	</File>
+	<File name="src\ksong.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\midi.cpp" open="1" top="1" tabpos="8">
+		<Cursor position="0" topLine="108" />
+	</File>
+	<File name="src\midi.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="118" />
+	</File>
+	<File name="src\scheduler.h" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\song.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2519" topLine="194" />
+	</File>
+	<File name="src\utils.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="5142" topLine="207" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1340469350 source:d:\codeblocktest\karalib\examples\cmd_lined\main.cpp
+	"..\..\include\karaoke.h"
+	<windows.h>
+	<iostream>
+
+1340462416 d:\codeblocktest\karalib\include\karaoke.h
+	<vector>
+	<stdint.h>
+	<string>
+	"midi.h"
+	"flags.h"
+
+1340462606 d:\codeblocktest\karalib\include\midi.h
+	<vector>
+	<stdint.h>
+	"scheduler.h"
+	"ksong.h"
+	"midiout.h"
+	"flags.h"
+
+1339882516 d:\codeblocktest\karalib\include\scheduler.h
+	<windows.h>
+	<stdint.h>
+
+1340215640 d:\codeblocktest\karalib\include\ksong.h
+	"song.h"
+
+1340153642 d:\codeblocktest\karalib\include\song.h
+	<vector>
+	<stdint.h>
+	<fstream>
+	"chunk.h"
+	"tracks.h"
+
+1340153228 d:\codeblocktest\karalib\include\chunk.h
+	"utils.h"
+	<memory.h>
+	<stdint.h>
+	"error.h"
+
+1340153878 d:\codeblocktest\karalib\include\utils.h
+	<fstream>
+	<stdint.h>
+	<vector>
+
+1339924508 d:\codeblocktest\karalib\include\error.h
+	<stdexcept>
+	<cstring>
+	<stdint.h>
+
+1340154330 d:\codeblocktest\karalib\include\tracks.h
+	"chunk.h"
+	"event.h"
+	<stdint.h>
+	"ktypes.h"
+
+1340151270 d:\codeblocktest\karalib\include\event.h
+	"utils.h"
+	"error.h"
+
+1340213054 d:\codeblocktest\karalib\include\ktypes.h
+	<vector>
+
+1339739034 d:\codeblocktest\karalib\include\midiout.h
+	"out.h"
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+
+1339738696 d:\codeblocktest\karalib\include\out.h
+	<stdint.h>
+
+1340217146 d:\codeblocktest\karalib\include\flags.h
+
